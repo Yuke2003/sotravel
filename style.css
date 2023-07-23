@@ -75,7 +75,7 @@ span{
     transform: translateY(-3px);
 }
 .main-content{
-    background: linear-gradient(to left,rgb(0,0,0,0.6),rgb(0,0,0,0.3)),url(./img/Background.png);
+    background: linear-gradient(to left,rgb(0,0,0,0.6),rgb(0,0,0,0.3)),url(Background.png);
     background-size: cover;
     background-position:center;
     height: 100vh;
